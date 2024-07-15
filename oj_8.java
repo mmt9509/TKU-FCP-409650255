@@ -1,4 +1,4 @@
-public class oj8 {
+public class oj_8 {
     public static void main(String[] args) {
 
         int i=5;

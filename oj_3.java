@@ -1,4 +1,4 @@
-public class oj3 {
+public class oj_3 {
     public static void main(String[] args) {
         int a,b;
         a=10;

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class oj13 {
+public class oj_13 {
     public static void main(String[] args) {
         Scanner scn=new Scanner(System.in);
         float PI=3.14159f;

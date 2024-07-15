@@ -1,4 +1,4 @@
-public class oj14 {
+public class oj_14 {
     public static void main(String[] args) {
         int num1=5,num2=2;
         char oper='+';
